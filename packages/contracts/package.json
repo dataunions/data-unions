@@ -55,7 +55,7 @@
         "eslint": "8.23.0",
         "ethereum-waffle": "3.4.4",
         "ethers": "5.7.0",
-        "hardhat": "2.10.2",
+        "hardhat": "2.22.17",
         "hardhat-typechain": "0.3.5",
         "prettier": "2.7.1",
         "prettier-plugin-solidity": "1.0.0-beta.24",
